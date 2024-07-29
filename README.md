@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heritagedev
+- 👋 Hi, I’m Heritagedev
 - 👀 I’m a pro in developing different type of website and I also have experience working with Blockchain Agency months ago
 - 🌱 I’m currently working with a client that wants to do Nft Minting website and also deploy it on Ton
 - 💞️ I’m looking to collaborate with you on your project and will surely turn up a long term relationship
